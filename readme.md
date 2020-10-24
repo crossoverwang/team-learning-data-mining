@@ -11,6 +11,7 @@
 - [数据挖掘实践（金融风控）](https://github.com/datawhalechina/team-learning-data-mining/tree/master/FinancialRiskControl)
 - [数据挖掘实践（二手车价格预测）](https://github.com/datawhalechina/team-learning-data-mining/tree/master/SecondHandCarPriceForecast)
 - [数据挖掘实践（资金流入流出预测）](https://github.com/datawhalechina/team-learning-data-mining/tree/master/PurchaseAndRedemptionForecast)
+- [test]
 
 ## 备注
 
